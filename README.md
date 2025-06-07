@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [End to End Encrypted Cryptography Based Real Time Chat](https://github.com/ronaessi-28/Multithreaded-End-to-End-Encrypted-Cryptography-Based-Real-Time-Chat)
 
-- 🌱 I’m currently learning **Backend Development with Node.js and Express**
+- 🌱 I’m currently learning **Backend Development with Node.js and Express**  
 
 - 👯 I’m looking to collaborate on [Realtime-spotify-clone](https://github.com/ronaessi-28/Realtime-spotify-clone)
 
